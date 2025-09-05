@@ -78,16 +78,16 @@ It demonstrates **role-based access control**, incident logging, severity-based 
 ###  Admin Dashboard
 - Form to log new incidents  
 - Table of existing incidents
-![Admin Dashboard](assets/Admin_page.png)
+![Admin Dashboard](assets/admin_page.png)
 
 ###  Specialist Dashboard
 - Highest-priority incident highlighted  
 - Options to **Flag** or **Fix with Tools**
-![Specialist Dashboard](assets/Specialist_page.png)
+![Specialist Dashboard](assets/specialist_page.png)
 
 ###  Report Page
 - Detailed report of incident resolution
-![Report Page](assets/Report.png)
+![Report Page](assets/report.png)
 
 ---
 
