@@ -89,6 +89,12 @@ It demonstrates **role-based access control**, incident logging, severity-based 
 - Detailed report of incident resolution
 ![Report Page](assets/report.png)
 
+### Incident Fixing Page
+- Specialists can view incidents sorted by highest priority  
+- Option to select security tools such as **Malwarebytes**, **McAfee**, or **Kaspersky**  
+- Once a tool is chosen, the incident is flagged as fixed and sent to the reporting system  
+![Incident Fixing Page](assets/incident_fixing.png)
+
 ---
 
 ## Learning Outcomes
