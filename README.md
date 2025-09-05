@@ -46,7 +46,7 @@ It demonstrates **role-based access control**, incident logging, severity-based 
 
 ---
 
-## ⚙️ Backend
+##  Backend
 - **PHP** handles:
   - Session management and role-based access (Admin vs Specialist).  
   - Secure database queries with **prepared statements**.  
